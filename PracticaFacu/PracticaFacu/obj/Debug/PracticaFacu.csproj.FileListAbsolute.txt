@@ -1,0 +1,6 @@
+c:\users\saul manich\documents\visual studio 2015\Projects\PracticaFacu\PracticaFacu\bin\Debug\PracticaFacu.exe.config
+c:\users\saul manich\documents\visual studio 2015\Projects\PracticaFacu\PracticaFacu\bin\Debug\PracticaFacu.exe
+c:\users\saul manich\documents\visual studio 2015\Projects\PracticaFacu\PracticaFacu\bin\Debug\PracticaFacu.pdb
+c:\users\saul manich\documents\visual studio 2015\Projects\PracticaFacu\PracticaFacu\obj\Debug\PracticaFacu.csprojResolveAssemblyReference.cache
+c:\users\saul manich\documents\visual studio 2015\Projects\PracticaFacu\PracticaFacu\obj\Debug\PracticaFacu.exe
+c:\users\saul manich\documents\visual studio 2015\Projects\PracticaFacu\PracticaFacu\obj\Debug\PracticaFacu.pdb
